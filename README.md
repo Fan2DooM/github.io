@@ -1,1 +1,2 @@
 # github.io
+# droid.ru
